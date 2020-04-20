@@ -16,7 +16,7 @@
  1. 先跟点击上方注册地址，使用邀请码  MP38158552  注册
  2. 注册登录[商家后台](https://merchants.mugglepay.com)
  3. 选择"开发者中心"->“密钥管理”->“用在后台服务器（SSP等php后台）”，点击“添加密钥”，获得应用密钥。将获取的应用密钥，填入ZFAKA 支付方式配置文件中。
-<img src="https://cdn.mugglepay.com/docs/whmcs/getapi.png" />
+<img src="https://github.com/huangfengye/MugglepayForZfaka/blob/master/%E8%8E%B7%E5%8F%96%E5%BA%94%E7%94%A8%E5%AF%86%E9%92%A5.png" />
 
 ## 认证审核
  请去"产品中心"-->"产品功能"，完成权限开通<br />
