@@ -27,5 +27,5 @@
  注意，如果你只有 “加密货币”，那只能接受加密货币。如需要开通其他支付方式，请按照该页面的流程操作。
 
 ## FAQ
-可以参考数字货币匿名支付[常见问题](https://github.com/MugglePay/MugglePay)。
+可以参考数字货币匿名支付[常见问题](https://github.com/MugglePay/MugglePay/blob/master/README-CN.md)。
 如果支付遇到问题，可以联系[技术交流群](https://t.me/mugglepay)。
