@@ -1,6 +1,9 @@
 
 # MugglePay
-
+### 特点
+ - 支持多种主流数字货币：BTC、BTC（Lightning Network）、ETH、USDT、BCH、LTC、EOS
+ - 五分钟完成对接
+ - 手续费低至0%
 ## 注册地址 
  * [MugglePay.com](https://merchants.mugglepay.com/user/register?ref=MP38158552)
  
