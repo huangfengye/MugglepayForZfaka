@@ -37,3 +37,6 @@
 ## FAQ
 可以参考数字货币匿名支付[常见问题](https://github.com/MugglePay/MugglePay/blob/master/README-CN.md)。
 如果支付遇到问题，可以联系[技术交流群](https://t.me/mugglepay)。
+
+## 接口的BUG与问题反馈
+ QQ:583648414  仅限接口BUG问题反馈

@@ -37,3 +37,6 @@ English | [简体中文](/README.md)
 ## FAQ
 You can refer to digital currency for anonymous payment[FAQ](https://github.com/MugglePay/MugglePay/blob/master/README.md)。
 If you have any qustion ,jion our Telegram [Technology Exchange Group](https://t.me/mugglepay)。
+
+## BUG and Feedback
+ TG：https://t.me/MySoraLike  
