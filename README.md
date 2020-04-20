@@ -20,6 +20,7 @@
  2. 注册登录[商家后台](https://merchants.mugglepay.com)
  3. 选择"开发者中心"->“密钥管理”->“用在后台服务器（SSP等php后台）”，点击“添加密钥”，获得应用密钥。将获取的应用密钥，填入ZFAKA 支付方式配置文件中。
 <img src="https://github.com/huangfengye/MugglepayForZfaka/blob/master/%E8%8E%B7%E5%8F%96%E5%BA%94%E7%94%A8%E5%AF%86%E9%92%A5.png" />
+![image](zfaka后台设置.png)
  4. 将获取的应用密钥，填入ZFAKA 支付方式配置中的 "密钥" 处， 手续费请自行设置
 <img src="https://github.com/huangfengye/MugglepayForZfaka/blob/master/zfaka%E5%90%8E%E5%8F%B0%E8%AE%BE%E7%BD%AE.png" />
 
